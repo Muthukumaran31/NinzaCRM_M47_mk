@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-11T08:12:53 IST" name="Suite" finished-at="2026-03-11T08:12:54 IST" duration-ms="222">
+    <groups>
+      <group name="smoke">
+        <method signature="Demo1Test.bikeTest()[pri:0, instance:Practice.Demo1Test@71d44a3]" name="bikeTest" class="Practice.Demo1Test"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2026-03-11T08:12:53 IST" name="Test" finished-at="2026-03-11T08:12:54 IST" duration-ms="222">
+      <class name="Practice.DemoTest">
+        <test-method signature="catTest()[pri:0, instance:Practice.DemoTest@47eaca72]" started-at="2026-03-11T08:12:53 IST" name="catTest" finished-at="2026-03-11T08:12:53 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- catTest -->
+      </class> <!-- Practice.DemoTest -->
+      <class name="Practice.Demo1Test">
+        <test-method signature="bikeTest()[pri:0, instance:Practice.Demo1Test@71d44a3]" started-at="2026-03-11T08:12:53 IST" name="bikeTest" finished-at="2026-03-11T08:12:53 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bikeTest -->
+      </class> <!-- Practice.Demo1Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
